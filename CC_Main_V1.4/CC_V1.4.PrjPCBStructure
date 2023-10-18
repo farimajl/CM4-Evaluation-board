@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=4G.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=4G.SchDoc|FileName=Audio.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=4G.SchDoc|FileName=CoreBoard.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=4G.SchDoc|FileName=DIO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=4G.SchDoc|FileName=HDMI_MicroUSB.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=4G.SchDoc|FileName=LCD.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=4G.SchDoc|FileName=Power_Supply.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=4G.SchDoc|FileName=SPI_To_Ethernet.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=4G.SchDoc|FileName=USB_To_Ethernet.SchDoc|SheetNumber= 
